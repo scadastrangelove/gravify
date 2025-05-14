@@ -2,7 +2,7 @@
 
 **Gravify** is a minimalist, block-merging puzzle game built around the psychological principles behind classic gameplay. Inspired by timeless classics like **Tetris** and **Snake**, Gravify challenges your attention, reflexes, and pattern recognition — not with cinematic cutscenes, but with pure gameplay satisfaction.
 
-![Gravify Splash](gravify-1.png)
+![Gravify Splash](gravify-splash.jpg)
 
 ## 🔥 Play It Now
 👉 [Try Gravify Online](https://www.cyberok.ru/gravify/gravify.html)
