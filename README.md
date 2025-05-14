@@ -27,8 +27,7 @@
 Gravify is part of a broader project exploring **psychological principles behind classic games**.
 
 > *"While AAA games compete with Hollywood, classics like Tetris and Snake remain undefeated — not by graphics, but by gameplay."*
-
-_Because great gameplay never needed RTX_
+> _Because great gameplay never needed RTX_
 
 In a time of cinematic excess and billion-dollar budgets (e.g. GTA 6, Star Citizen), Gravify returns to the **essence of fun**: simple mechanics that are easy to learn, hard to master, and infinitely replayable.
 
