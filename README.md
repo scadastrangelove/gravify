@@ -5,7 +5,7 @@
 ![Gravify Splash](gravify-splash.jpg)
 
 ## 🔥 Play It Now
-👉 [Try Gravify Online](https://www.cyberok.ru/gravify/gravify.html)
+👉 [Try Gravify Online](http://gravify.gamenesis.ai/gravify/gravify.html)
 
 ## 🎮 How to Play
 
