@@ -22,9 +22,6 @@
 ### Gameplay
 ![Gameplay](gvfyscreen.jpg)
 
-### Logo Splash
-![Logo Splash](gravify-1.png)
-
 ## 🧠 Project Philosophy
 
 Gravify is part of a broader project exploring **psychological principles behind classic games**.
