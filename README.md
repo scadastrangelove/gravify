@@ -72,3 +72,32 @@ This project reflects on **why simple games stay timeless**. It is an invitation
 **Enjoy Gravify** — where every merge counts, and gameplay is king.
 
 🧠🎮🧩
+---
+## 📝 License
+
+This project is offered under a **dual-license model**:
+
+### ⚖️ Non-Commercial / Open-Source Use (GPL-Style)
+
+You are free to use, modify, and distribute this project **for non-commercial purposes** under terms similar to the GNU General Public License (GPL). [This includes:](https://www.cyberok.ru/gravify/gravify.html) 
+
+- Personal use  
+- Educational use  
+- Academic research  
+- Non-profit projects  
+- Open-source forks (as long as they remain non-commercial)
+
+If you distribute modified versions, you must:
+
+- Include attribution to the original project  
+- Share your changes under the same license terms  
+
+### 💼 Commercial Use
+
+To use this project or its derivatives **in a commercial context** (e.g., for-profit apps, games, platforms, or services), a **separate commercial license** is required.
+
+Please contact the author at [serg.gordey@gmail.com] to discuss commercial licensing options.
+
+---
+
+**TL;DR**: Free to use and remix for non-commercial/open-source use. Contact for anything commercial.
