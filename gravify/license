@@ -1,0 +1,74 @@
+Gravify Public Source License (GPSL) Version 1.0
+
+(C) 2025 Sergei Gordeichik serg.gordey@gmail.com
+
+0. Preamble
+
+The intent of this license is to establish freedom to share and change the software regulated by this license under the open source model. It also includes a Contributor Agreement and disclaims any warranty on Covered Software. Companies wishing to use or incorporate Covered Software within their own products may find that our commercial license model better suits their needs. Open source developers who wish to incorporate parts of Covered Software into free software with conflicting licenses may write Licensor to request a waiver of terms.
+If the Licensor has granted you additional rights to Gravify, those additional rights take precedence where they conflict with the terms of this license agreement.
+
+This License represents the complete agreement concerning the subject matter hereof. It contains the license terms themselves, but not the reasoning behind them or detailed explanations.
+
+1. Definitions
+
+"Contribution" means any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof.
+"Contributor" means Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and incorporated within the Work.
+"Covered Software" means the work of authorship, whether in Source or Object form, including code, logos, music, and assets.
+"Derivative Work" or "Collective Work" means any work based on (or derived from) the Work.
+"Executable" means any form of Covered Software other than Source Code.
+"Externally Deploy" means making the software accessible to third parties.
+"GPL" means the GNU General Public License Version 2 (provided in Exhibit A).
+"Legal Entity" means any controlling or controlled organization.
+"License" means this document, including Exhibits.
+"Licensor" means Sergei Gordeichik and any successors or assigns.
+"You" (or "Your") means any individual or Legal Entity using the software.
+
+2. General Terms
+
+Covered Software is licensed under the GNU General Public License Version 2 (GNU, https://www.gnu.org/licenses/old-licenses/gpl-2.0.html#SEC1). These exceptions override any conflicting GPL terms. You may not redistribute Covered Software or Derivative Works under plain GPL terms without special permission from Licensor.
+Your modification, use, or distribution of Covered Software implies acceptance of this License and its conditions.
+
+3. Derivative Works
+
+Derivative works must be licensed under this same License. This includes:
+Integrating source code from Covered Software
+Using data files, assets, or invoking Covered Software programmatically
+Packaging or bundling the software in installers
+Linking against Covered Software libraries
+These derivative works must follow GPL terms and this License’s conditions.
+
+4. Contributor Agreement
+
+Each Contributor grants Licensor a perpetual, non-exclusive, worldwide, royalty-free license to use, distribute, and sublicense their Contributions. Contributions may be marked "Not a Contribution" to opt out.
+
+5. Disclaimer of Warranty
+
+Covered Software is provided "AS IS" with no warranties or guarantees of any kind.
+
+6. Limitation of Liability
+
+Contributors and Licensor shall not be liable for any damages resulting from use of the software.
+
+7. External Deployment
+
+Public-facing use of Covered Software (e.g., web applications) must credit the project and display a link to the project's repository.
+
+8. Trademarks
+
+No rights to Licensor's trademarks are granted by this License.
+
+9. Termination for Patent Action
+
+If You initiate patent litigation claiming infringement by the software, this License terminates immediately.
+
+10. Governing Law
+
+This License shall be governed by the laws of the Russian Federation. Any disputes will be resolved in the courts of Moscow.
+
+11. Waiver; Construction
+
+Failure to enforce any part of this License does not waive future enforcement. No law shall construe this License against its drafter.
+
+12. Enforceability
+
+If any clause is found unenforceable, the remainder of the License remains in full effect.
