@@ -79,7 +79,7 @@ This project is offered under a **dual-license model**:
 
 ### ⚖️ Non-Commercial / Open-Source Use (GPL-Style)
 
-You are free to use, modify, and distribute this project **for non-commercial purposes** under terms similar to the GNU General Public License (GPL). [This includes:](https://www.cyberok.ru/gravify/gravify.html) 
+You are free to use, modify, and distribute this project **for non-commercial purposes** under terms similar to the GNU General Public License (GPL). [This includes:](https://github.com/scadastrangelove/gravify/blob/main/LICENSE) 
 
 - Personal use  
 - Educational use  
